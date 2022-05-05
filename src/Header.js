@@ -88,9 +88,11 @@ const Search = styled.input`
   height:4vh;
   margin-left:35vw;
   top:4vh;
-  background-color:#2C2C2C;
+  background-image: url("../../projeto/src/assent/lupa.svg");
+  background-color:#fff;
   border-radius:4px;
   border:2px solid #2C2C2C;
+  visibility:hidden;
 `
 const Conteiner = styled.div`
  position:relative;
